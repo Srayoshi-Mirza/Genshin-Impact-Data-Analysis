@@ -1,0 +1,72 @@
+Character,Element,Weapon,Region,Model Type,Release Date,Version,HP,ATK,DEF
+Albedo,Geo,Sword,Mondstadt,Medium Male,"December 23, 2020",1.2,4228.035,80.28111,280.098
+Alhaitham,Dendro,Sword,Sumeru,Tall Male,"January 18, 2023",3.4,4267.1836,100.16024,249.8769
+Aloy,Cryo,Bow,None,Medium Female,"September 01, 2021",2.1,3484.214,74.77612,216.216
+Amber,Pyro,Bow,Mondstadt,Medium Female,"September 28, 2020",1.0,2838.2634,66.90411,180.18
+Arataki Itto,Geo,Claymore,Inazuma,Tall Male,"December 14, 2021",2.3,4110.59,72.63529,306.6336
+Baizhu,Dendro,Catalyst,Liyue,Tall Male,"May 02, 2023",3.6,4267.1836,61.54885,159.705
+Barbara,Hydro,Catalyst,Mondstadt,Medium Female,"September 28, 2020",1.0,2936.1348,47.78865,200.655
+Beidou,Electro,Claymore,Liyue,Tall Female,"September 28, 2020",1.0,3914.8462,67.54129,194.5125
+Bennett,Pyro,Sword,Mondstadt,Medium Male,"September 28, 2020",1.0,3719.104,57.34638,231.3675
+Candace,Hydro,Polearm,Sumeru,Tall Female,"September 28, 2022",3.1,3262.3718,63.7182,204.75
+Chongyun,Cryo,Claymore,Liyue,Medium Male,"September 28, 2020",1.0,3294.9956,66.90411,194.5125
+Collei,Dendro,Bow,Sumeru,Medium Female,"August 24, 2022",3.0,2936.1348,59.895107,180.18
+Cyno,Electro,Polearm,Sumeru,Medium Male,"September 28, 2022",3.1,3993.1443,101.68941,274.6926
+Dehya,Pyro,Claymore,Sumeru,Tall Female,"March 01, 2023",3.5,5011.0044,84.8686,200.7369
+Diluc,Pyro,Claymore,Mondstadt,Tall Male,"September 28, 2020",1.0,4149.7383,107.04148,250.614
+Diona,Cryo,Bow,Mondstadt,Short Female,"November 11, 2020",1.1,2870.8872,63.7182,180.18
+Dori,Electro,Claymore,Sumeru,Short Female,"September 09, 2022",3.0,3719.104,66.90411,217.035
+Eula,Cryo,Claymore,Mondstadt,Tall Female,"May 18, 2021",1.5,4228.035,109.33523,240.0489
+Faruzan,Anemo,Bow,Sumeru,Medium Female,"December 07, 2022",3.3,2870.8872,58.939335,188.37
+Fischl,Electro,Bow,Mondstadt,Medium Female,"September 28, 2020",1.0,2756.704,73.27593,178.1325
+Freminet,Cryo,Claymore,Fontaine,Medium Male,"September 05, 2023",4.0,3621.2326660156,76.461837768555,212.53050231934
+Ganyu,Cryo,Bow,Liyue,Medium Female,"January 12, 2021",1.2,3131.878,107.04148,201.474
+Gorou,Geo,Bow,Inazuma,Medium Male,"December 14, 2021",2.3,2870.8872,54.797653,194.5125
+Hu Tao,Pyro,Polearm,Liyue,Medium Female,"March 02, 2021",1.3,4971.856,34.0239,280.098
+Jean,Anemo,Sword,Mondstadt,Tall Female,"September 28, 2020",1.0,4697.817,76.4582,245.7
+Kaedehara Kazuha,Anemo,Sword,Inazuma,Medium Male,"June 29, 2021",1.6,4267.1836,94.80817,257.985
+Kaeya,Cryo,Sword,Mondstadt,Tall Male,"September 28, 2020",1.0,3490.7378,66.90411,237.51
+Kamisato Ayaka,Cryo,Sword,Inazuma,Medium Female,"July 21, 2021",2.0,4110.59,109.33523,250.614
+Kamisato Ayato,Hydro,Sword,Inazuma,Tall Male,"March 30, 2022",2.6,4384.629,95.57275,245.7
+Kaveh,Dendro,Claymore,Sumeru,Tall Male,"May 02, 2023",3.6,3588.6091,70.09002,225.225
+Keqing,Electro,Sword,Liyue,Medium Female,"September 28, 2020",1.0,4188.8867,103.21857,255.528
+Kirara,Dendro,Sword,Inazuma,Medium Female,"May 24, 2023",3.7,3653.8564453125,66.904113769531,163.8
+Klee,Pyro,Catalyst,Mondstadt,Short Female,"October 20, 2020",1.0,3288.4717,99.39566,196.56
+Kujou Sara,Electro,Bow,Inazuma,Tall Female,"September 01, 2021",2.1,2870.8872,58.620743,188.37
+Kuki Shinobu,Electro,Sword,Inazuma,Medium Female,"June 21, 2022",2.7,3686.4802,63.7182,225.225
+Layla,Cryo,Sword,Sumeru,Medium Female,"November 18, 2022",3.2,3327.6194,64.99256,196.56
+Lisa,Electro,Catalyst,Mondstadt,Tall Female,"September 28, 2020",1.0,2870.8872,69.452835,171.99
+Lynette,Anemo,Sword,Fontaine,Medium Female,"August 16, 2023",4.0,3719.104,69.452835083,213.554245
+Lyney,Pyro,Bow,Fontaine,Medium Male,"August 16, 2023",4.0,3523.3625488281,101.6894,171.99
+Mika,Cryo,Polearm,Mondstadt,Medium Male,"March 21, 2023",3.5,3751.7275,66.90411,213.96375
+Mona,Hydro,Catalyst,Mondstadt,Medium Female,"September 28, 2020",1.0,3327.62,91.74984,208.845
+Nahida,Dendro,Catalyst,Sumeru,Short Female,"November 02, 2022",3.2,3311.961,95.57275,201.474
+Nilou,Hydro,Sword,Sumeru,Medium Female,"October 14, 2022",3.1,4854.4106,73.39987,232.9236
+Ningguang,Geo,Catalyst,Liyue,Tall Female,"September 28, 2020",1.0,2936.1348,63.7182,171.99
+Noelle,Geo,Claymore,Mondstadt,Medium Female,"September 28, 2020",1.0,3621.2327,57.34638,239.5575
+Qiqi,Cryo,Sword,Liyue,Short Female,"September 28, 2020",1.0,3953.9958,91.74984,294.84
+Raiden Shogun,Electro,Polearm,Inazuma,Tall Female,"September 01, 2021",2.1,4126.249,107.80606,252.3339
+Razor,Electro,Claymore,Mondstadt,Medium Male,"September 28, 2020",1.0,3588.6091,70.09002,225.225
+Rosaria,Cryo,Polearm,Mondstadt,Tall Female,"April 06, 2021",1.4,3686.4802,72.001564,212.94
+Sangonomiya Kokomi,Hydro,Catalyst,Inazuma,Medium Female,"September 21, 2021",2.1,4306.332,74.92904,210.0735
+Sayu,Anemo,Claymore,Inazuma,Short Female,"August 10, 2021",2.0,3555.9854,73.27593,223.38225
+Shenhe,Cryo,Polearm,Liyue,Tall Female,"January 05, 2022",2.4,4153.653,97.10191,265.356
+Shikanoin Heizou,Anemo,Catalyst,Inazuma,Medium Male,"July 13, 2022",2.8,3197.1245,67.54129,205.1595
+Sucrose,Anemo,Catalyst,Mondstadt,Medium Female,"September 28, 2020",1.0,2773.016,50.97456,210.8925
+Tartaglia,Hydro,Bow,Snezhnaya,Tall Male,"November 11, 2020",1.1,4188.8867,96.33733,260.442
+Thoma,Pyro,Polearm,Inazuma,Tall Male,"November 02, 2021",2.2,3099.2532,60.53229,225.225
+Tighnari,Dendro,Bow,Sumeru,Medium Male,"August 24, 2022",3.0,3468.5547,85.63319,201.474
+Traveler,None,Sword,None,Aether: Medium Male Lumine: Medium Female,"September 28, 2020",1.0,3262.3718,63.7182,204.75
+Venti,Anemo,Bow,Mondstadt,Medium Male,"September 28, 2020",1.0,3366.7688,84.10402,213.759
+Wanderer,Anemo,Catalyst,Sumeru,Medium Male,"December 07, 2022",3.3,3249.3232,104.747734,194.103
+Xiangling,Pyro,Polearm,Liyue,Medium Female,"September 28, 2020",1.0,3262.3718,67.54129,200.655
+Xiao,Anemo,Polearm,Liyue,Medium Male,"February 03, 2021",1.3,4071.4412,111.628975,255.528
+Xingqiu,Hydro,Sword,Liyue,Medium Male,"September 28, 2020",1.0,3066.6296,60.53229,227.2725
+Xinyan,Pyro,Claymore,Liyue,Medium Female,"December 01, 2020",1.1,3360.243,74.55029,239.5575
+Yae Miko,Electro,Catalyst,Inazuma,Tall Female,"February 16, 2022",2.5,3315.8757,108.57064,181.818
+Yanfei,Pyro,Catalyst,Liyue,Medium Female,"April 28, 2021",1.5,2805.64,72.001564,176.085
+Yaoyao,Dendro,Polearm,Liyue,Short Female,"January 18, 2023",3.4,3686.4802,63.7182,225.225
+Yelan,Hydro,Bow,Liyue,Tall Female,"May 31, 2022",2.7,4619.52,77.987366,175.1841
+Yoimiya,Pyro,Bow,Inazuma,Medium Female,"August 10, 2021",2.0,3249.3232,103.21857,196.56
+Yun Jin,Geo,Polearm,Liyue,Medium Female,"January 05, 2022",2.4,3197.1245,57.34638,220.311
+Zhongli,Geo,Polearm,Liyue,Tall Male,"December 01, 2020",1.1,4697.817,80.2811,235.872
